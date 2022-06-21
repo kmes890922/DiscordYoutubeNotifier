@@ -1,11 +1,9 @@
 {
-    "token": "your-discord-bot-token-here",
-    "message": "New video: **{videoTitle}**! It was uploaded by {videoAuthorName} at {videoPubDate}! Here is the link: {videoURL}",
-    "channel": "your-channel-id-for-announcements-here",
+    "token": OTg4NjM1NjUyNDk1MTIyNDgz.GTtrZV.v_tBEbdG_DM4LZ4YjJBGkU2_ugbw2Bu0r1R_6o",
+    "message": "新影片: **{videoTitle}**! 已經開始了{videoAuthorName} 在 {videoPubDate}! 連結: {videoURL}",
+    "channel": "youtube-umi",
     "youtubers": [
-        "Pewdiepie",
-        "Squeezie",
-        "https://www.youtube.com/channel/UCNuYih-JMtLxOlsjeIos4ZA"
+        "https://www.youtube.com/c/Umi-%E7%99%BD%E6%98%9F%E5%84%AA%E7%B1%B3"
     ],
     "youtubeKey": "your http://console.developer.google.com youtube v3 api key"
 }
